@@ -7,7 +7,7 @@ GET     /api/users/{id}          - Get user by ID --if data is not present for p
 PUT     /api/users/{id}          - Update user by ID
 DELETE  /api/users/{id}          - Delete user
 
-======================== --testing pending
+======================== 
       CATEGORY APIs
 ========================
 POST    /api/categories           - Create a category
@@ -42,6 +42,7 @@ PUT     /api/courses/{id}        - Update course
 DELETE  /api/courses/{id}        - Delete course
 GET     /api/courses/category/{categoryId} - Get courses by category
 
+yet to be done
 ========================
    COURSE SUBSCRIPTION APIs
 ========================
